@@ -4,10 +4,10 @@
 
 ### Tools:
 ### - [Jupyter notebooks](https://jupyter.org/),
-### - [Python](https://www.python.org)
-### - [gensim](https://pypi.org/project/gensim/)
-### - [pyLDAvis](https://github.com/bmabey/pyLDAvis)
-### - [Slack](slack.com)
+### - [Python](https://www.python.org),
+### - [gensim](https://pypi.org/project/gensim/),
+### - [pyLDAvis](https://github.com/bmabey/pyLDAvis),
+### - [Slack](slack.com).
 
 &nbsp; &nbsp;
 
