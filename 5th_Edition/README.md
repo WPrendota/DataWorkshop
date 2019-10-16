@@ -1,8 +1,8 @@
 # 5 Day Machine Learning Challenge (fifth challenge: Time Series) organized by [DataWorkshop](http://www.dataworkshop.eu/challenge).
 
 ### Tools:
-### - Jupyter notebooks,
-### - Python
+### - [Jupyter notebooks](https://jupyter.org/),
+### - [Python](https://www.python.org)
 ### - [fbprophet](https://pypi.org/project/fbprophet/)
 ### - [Slack](slack.com)
 
