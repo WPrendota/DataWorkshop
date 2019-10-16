@@ -7,6 +7,7 @@
 ### - [TensorFlow](https://www.tensorflow.org),
 ### - [Slack](slack.com),
 ### - [ImageNet: CIFAR-10](http://www.image-net.org/)
+&nbsp;
 
 ### Challenge concerned the Deep Learning.
 ### The whole work was divided into smaller parts for each day (5 days in total): 
