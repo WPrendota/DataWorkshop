@@ -1,12 +1,12 @@
 # 5 Day Machine Learning Challenge (third challenge: an introduction to self-driving cars) organized by [DataWorkshop](http://www.dataworkshop.eu/challenge).
 
 ### Tools:
-### - Jupyter notebooks,
-### - [Google Colaboratory](https://colab.research.google.com)
-### - Python
-### - [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
-### - Slack
-### - imgaug library
+### - [Jupyter notebooks](https://jupyter.org/),
+### - [Google Colaboratory](https://colab.research.google.com),
+### - [Python](https://www.python.org),
+### - [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim),
+### - [Slack](slack.com),
+### - [imgaug library](https://pypi.org/project/imgaug/).
 
 ### Challenge concerned the autonomous cars. The whole work was divided into smaller parts for each day (5 days in total): environment configuration (Udacity's Self-Driving Car Simulator), run the first (already trained) model for the car control, data gathering and processing. It involved also image augmentation and network training.
 
