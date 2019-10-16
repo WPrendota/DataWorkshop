@@ -1,4 +1,4 @@
-# 5 Day Machine Learning Challenge (first challenge: ) organized by [DataWorkshop](http://www.dataworkshop.eu/challenge).
+# 5 Day Machine Learning Challenge (first challenge) organized by [DataWorkshop](http://www.dataworkshop.eu/challenge).
 
 ### Tools:
 ### - Jupyter notebooks,
