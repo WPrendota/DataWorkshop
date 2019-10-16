@@ -13,8 +13,11 @@
 
 ### Challenge concerned the  Natural Language Processing in data analysis. 
 ### The whole work was divided into smaller parts for each day (5 days in total):
-#### - environment configuration,
-#### - 
+#### - environment configuration (gensim and pyLDAvis),
+#### - introduction to word2vec model and gensim library,
+#### - word2vec model on the real data,
+#### - word2vec model training on the job offerts with phrases creation,
+#### - and doc2vec introduction.
 
 &nbsp; &nbsp;
 
