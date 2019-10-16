@@ -2,7 +2,7 @@
 
 &nbsp; &nbsp;
 
-## The_5_Day_Machine_Learning_Challenge:
+## The 5 Day Machine Learning Challenge:
 ### - 1st Edition,
 ### - 2nd Edition 'Deep Learning',
 ### - 3rd Edition 'An introduction to self-driving cars',
