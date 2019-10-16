@@ -4,7 +4,7 @@
 
 ### Tools:
 ### - [Jupyter notebooks](https://jupyter.org/),
-### - [Google Colaboratory](https://colab.research.google.com)
+### - [Google Colaboratory](https://colab.research.google.com),
 ### - [Python](https://www.python.org),
 ### - [Slack](slack.com).
 
