@@ -6,9 +6,8 @@
 ### - [fbprophet](https://pypi.org/project/fbprophet/)
 ### - [Slack](slack.com)
 
-### Challenge concerned the time series problem in data analysis. The whole work was divided into smaller parts for each day (5 days in total): environment configuration, fitting the mean and linear function to an example data, yearly data division with function fitting and future forecasting.
-
-### [Certificate](https://github.com/WPrendota/DataWorkshop_3rd_Edition/blob/master/certificate_3rd_edition.pdf).
+### Challenge concerned the time series problem in data analysis. 
+### The whole work was divided into smaller parts for each day (5 days in total): environment configuration, fitting the mean and linear function to an example data, yearly data division with function fitting and future forecasting.
 
 ### Few screenshots:
 ![3rd_Edition_Day1](https://user-images.githubusercontent.com/5718654/63865132-5b51e980-c9b1-11e9-975d-7b9a32db8d30.png)
