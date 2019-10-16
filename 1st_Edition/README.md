@@ -10,7 +10,7 @@
 
 &nbsp; &nbsp;
 
-### Challenge concerned introduction in . 
+### Challenge concerned introduction in the topic of Machine Learning. 
 ### The whole work was divided into smaller parts for each day (5 days in total): 
 ### - the environment introduction and configuration,
 ### - the cloud server configuration (Google Cloud),
