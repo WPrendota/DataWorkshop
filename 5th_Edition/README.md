@@ -2,13 +2,11 @@
 
 ### Tools:
 ### - Jupyter notebooks,
-### - [Google Colaboratory](https://colab.research.google.com)
 ### - Python
-### - [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
-### - Slack
-### - imgaug library
+### - [fbprophet](https://pypi.org/project/fbprophet/)
+### - [Slack](slack.com)
 
-### Challenge concerned the autonomous cars. The whole work was divided into smaller parts for each day (5 days in total): environment configuration (Udacity's Self-Driving Car Simulator), run the first (already trained) model for the car control, data gathering and processing. It involved also image augmentation and network training.
+### Challenge concerned the time series problem in data analysis. The whole work was divided into smaller parts for each day (5 days in total): environment configuration, fitting the mean and linear function to an example data, yearly data division with function fitting and future forecasting.
 
 ### [Certificate](https://github.com/WPrendota/DataWorkshop_3rd_Edition/blob/master/certificate_3rd_edition.pdf).
 
