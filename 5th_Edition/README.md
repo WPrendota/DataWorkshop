@@ -1,4 +1,4 @@
-# 5 Day Machine Learning Challenge (third challenge: an introduction to self-driving cars) organized by [DataWorkshop](http://www.dataworkshop.eu/challenge).
+# 5 Day Machine Learning Challenge (fifth challenge: time series) organized by [DataWorkshop](http://www.dataworkshop.eu/challenge).
 
 ### Tools:
 ### - Jupyter notebooks,
