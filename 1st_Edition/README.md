@@ -10,7 +10,10 @@
 
 &nbsp; &nbsp;
 
-### Challenge concerned the autonomous cars. The whole work was divided into smaller parts for each day (5 days in total): environment configuration (Udacity's Self-Driving Car Simulator), run the first (already trained) model for the car control, data gathering and processing. It involved also image augmentation and network training.
+### Challenge concerned ??. 
+### The whole work was divided into smaller parts for each day (5 days in total): 
+### - environment configuration,
+### - ,
 
 &nbsp; &nbsp;
 
