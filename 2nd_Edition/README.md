@@ -14,7 +14,7 @@
 
 ### Challenge concerned the Deep Learning.
 ### The whole work was divided into smaller parts for each day (5 days in total): 
-### - environment configuration (Keras and TensorFlow), 
+### - environment configuration (Keras and TensorFlow),
 ### - introduction to computer vision and ImageNet/CIFAR-10 databases, 
 ### - basics of CNN/MNIST and application for CIFAR-10 (with GPU/TPU). 
 
