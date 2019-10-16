@@ -10,8 +10,6 @@
 
 ### Challenge concerned the autonomous cars. The whole work was divided into smaller parts for each day (5 days in total): environment configuration (Udacity's Self-Driving Car Simulator), run the first (already trained) model for the car control, data gathering and processing. It involved also image augmentation and network training.
 
-### [Certificate](https://github.com/WPrendota/DataWorkshop_3rd_Edition/blob/master/certificate_3rd_edition.pdf).
-
 ### Few screenshots:
 ![3rd_Edition_Day1](https://user-images.githubusercontent.com/5718654/63865132-5b51e980-c9b1-11e9-975d-7b9a32db8d30.png)
 
