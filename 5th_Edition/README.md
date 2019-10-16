@@ -4,9 +4,9 @@
 
 ### Tools:
 ### - [Jupyter notebooks](https://jupyter.org/),
-### - [Python](https://www.python.org)
-### - [fbprophet](https://pypi.org/project/fbprophet/)
-### - [Slack](slack.com)
+### - [Python](https://www.python.org),
+### - [fbprophet](https://pypi.org/project/fbprophet/),
+### - [Slack](slack.com).
 
 &nbsp; &nbsp;
 
