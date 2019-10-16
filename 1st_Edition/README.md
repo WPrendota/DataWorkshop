@@ -10,10 +10,12 @@
 
 &nbsp; &nbsp;
 
-### Challenge concerned ??. 
+### Challenge concerned introduction in . 
 ### The whole work was divided into smaller parts for each day (5 days in total): 
-### - environment configuration,
-### - ,
+### - the environment introduction and configuration,
+### - the cloud server configuration (Google Cloud),
+### - the sklearn library introduction (model training, forecasting and model evaluation),
+### - and the first model preparation - tram delay.
 
 &nbsp; &nbsp;
 
