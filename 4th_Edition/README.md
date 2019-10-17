@@ -21,6 +21,10 @@
 
 &nbsp; &nbsp;
 
+## The Jupyter notebooks with results can be found [here](http://159.65.61.9/projects/projects) (logging in required).
+
+&nbsp; &nbsp;
+
 ### Screenshots:
 ![Screenshot from 2019-09-04 13-26-08](https://user-images.githubusercontent.com/5718654/66927480-2d436a00-f030-11e9-8691-d4a15275740b.png)
 
