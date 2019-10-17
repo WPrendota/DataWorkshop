@@ -11,5 +11,9 @@
 
 &nbsp; &nbsp;
 
+## The Jupyter notebooks with results can be found [here](http://159.65.61.9/projects/projects) (logging in required).
+
+&nbsp; &nbsp;
+
 ## Contributor
 ### Witold
